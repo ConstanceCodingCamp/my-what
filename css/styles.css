@@ -1,0 +1,195 @@
+body {
+  font: "Montserrat";
+  text-align: center;
+}
+
+h1, h2, h3, h5, h6 {
+   font-family: 'Dancing Script', cursive;
+ }
+
+ h4{
+   color: yellow;
+}
+
+ p {
+   color: black;
+ }
+
+ a{
+   color: pink;
+ }
+
+ a:hover{
+   color: red;
+ }
+
+ /* heading */
+
+.big-heading {
+  font-family: 'Dancing Script', cursive;
+  top: 3%;
+  font-size: 3.5rem;
+  line-height: 1.5;
+ }
+
+.section-heading{
+   font-size: 3rem;
+   line-height: 1.5;
+}
+  /* containers */
+
+  .container-fluid {
+    padding: 7% 15%;
+  }
+
+/* sections */
+
+.colored-section {
+  background: linear-gradient(to left, #00d4ff, #020024, #090979);
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+  /* navigation bar */
+
+.navbar {
+padding: 0 0 1;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu"
+  font-size "1.5rem"
+  font-weight bold;
+}
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light"
+}
+
+/* Buttons */
+
+.download-button {
+margin: 5% 3% 5% 0;
+}
+
+/* title section */
+
+#title {
+  background: linear-gradient(to right, #00d4ff, #020024, #090979);
+  color: #fff;
+  text-align: left;
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+/* Title Image */
+
+.title-image {
+  top: 3%;
+  width: 60%;
+  position: absolute;
+  border-radius: 50% 50%;
+  left: 25%;
+  padding-top: 10%;
+}
+
+/* Features Section */
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon-hover {
+  color: #ff4c68;
+}
+
+/* Testimonial */
+
+#testimonials {
+  background-color: black;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.text{
+  color: white;
+}
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* press */
+
+#press {
+  background-color: white;
+  padding-bottom: 0%;
+  padding-top: 5%;
+}
+.press-logo {
+  width: 5%;
+  margin: 5px 5px 20px;
+}
+
+/* pricing */
+
+#specials {
+  padding-top: 5%;
+
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    }
+}
+
+.cta {
+  background: linear-gradient(to right, #00d4ff, #020024, #090979);
+  color: white;
+}

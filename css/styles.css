@@ -94,11 +94,14 @@ margin: 5% 3% 5% 0;
 /* Title Image */
 
 .title-image {
-  width: 100%; 
-  height: auto; 
-  display: block; 
-  border-radius: 50%; 
+  top: 3%;
+  width: 60%;
+  position: absolute;
+  border-radius: 50% 50%;
+  left: 25%;
+  padding-top: 5%;
 }
+
 
 /* Features Section */
 

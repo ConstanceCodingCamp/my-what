@@ -108,6 +108,7 @@ margin: 5% 3% 5% 0;
 
 .title-image {
   max-width: 50%; 
+  max-height: 200px;
   height: auto;
   display: block; 
   border-radius: 25%; 

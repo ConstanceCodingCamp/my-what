@@ -28,6 +28,7 @@ h1, h2, h3, h5, h6 {
 .big-heading {
   font-family: 'Dancing Script', cursive;
   top: 3%;
+  top-padding: 10%
   font-size: 3.5rem;
   line-height: 1.5;
  }

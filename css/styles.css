@@ -93,22 +93,13 @@ margin: 5% 3% 5% 0;
 
 /* Title Image */
 
-/* .title-image {
+.title-image {
   top: 3%;
   width: 60%;
   position: absolute;
   border-radius: 50% 50%;
   left: 25%;
-  padding-top: 10%;
-} */
-
-.title-image {
-  top: 3%;
-  width: 60%;
-  position: absolute;
-  border-radius: 50% 25%;
-  left: 25%;
-  padding-top: 10%;
+  padding-top: 5%;
 }
 
 /* Features Section */

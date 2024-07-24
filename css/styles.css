@@ -7,7 +7,7 @@ h1, h2, h3, h5, h6 {
    font-family: 'Dancing Script', cursive;
  }
 
- h4 {
+ h4{
    color: yellow;
 }
 
@@ -15,12 +15,12 @@ h1, h2, h3, h5, h6 {
    color: black;
  }
 
- a {
-  color: red;
-}
+ a{
+   color: pink;
+ }
 
  a:hover{
-   color: 235, 56, 235;
+   color: red;
  }
 
  /* heading */
@@ -45,7 +45,7 @@ h1, h2, h3, h5, h6 {
 /* sections */
 
 .colored-section {
-  background: black;
+  background: linear-gradient(to left, #00d4ff, #020024, #090979);
   color: #fff;
 }
 
@@ -82,7 +82,7 @@ margin: 5% 3% 5% 0;
 /* title section */
 
 #title {
-  background: black;
+  background: linear-gradient(to right, #00d4ff, #020024, #090979);
   color: #fff;
   text-align: left;
 }
@@ -100,7 +100,6 @@ margin: 5% 3% 5% 0;
   border-radius: 50% 50%;
   left: 25%;
   padding-top: 10%;
-  padding-bottom: 10%
 }
 
 /* Features Section */
@@ -191,6 +190,6 @@ margin: 5% 3% 5% 0;
 }
 
 .cta {
-  background: black;
+  background: linear-gradient(to right, #00d4ff, #020024, #090979);
   color: white;
 }

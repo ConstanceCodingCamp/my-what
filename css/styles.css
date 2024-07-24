@@ -96,7 +96,8 @@ margin: 5% 3% 5% 0;
 .title-image {
   top: 3%;
   width: 60%;
-  position: absolute;
+  position: absolute; 
+  image-right: 100%;
   border-radius: 50% 50%;
   left: 25%;
   padding-top: 0%;

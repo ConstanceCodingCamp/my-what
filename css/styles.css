@@ -26,6 +26,7 @@ h1, h2, h3, h5, h6 {
  /* heading */
 
 .big-heading {
+  padding: 7% 15%;
   font-family: 'Dancing Script', cursive;
   top: 3%;
   font-size: 3.5rem;

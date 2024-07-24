@@ -82,7 +82,7 @@ margin: 5% 3% 5% 0;
 /* title section */
 
 #title {
-  background: linear-gradient(to right, #00d4ff, #020024, #090979);
+  background: linear-gradient(to right, red, black, white);
   color: #fff;
   text-align: left;
 }
@@ -100,7 +100,7 @@ margin: 5% 3% 5% 0;
   image-align: right;
   border-radius: 50% 50%;
   left: 25%;
-  padding-top: 15%;
+  padding-top: 10%;
 }
 
 /* Features Section */

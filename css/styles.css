@@ -26,7 +26,6 @@ h1, h2, h3, h5, h6 {
  /* heading */
 
 .big-heading {
-  padding: 7% 15%;
   font-family: 'Dancing Script', cursive;
   top: 3%;
   font-size: 3.5rem;
@@ -40,10 +39,7 @@ h1, h2, h3, h5, h6 {
   /* containers */
 
   .container-fluid {
-   display: flex;
-   flex-direction: column;
-   align-items: center;
-}
+    padding: 7% 15%;
   }
 
 /* sections */
@@ -99,8 +95,9 @@ margin: 5% 3% 5% 0;
 
 .title-image {
   top: 3%;
-  height: auto;
-  border-radius: 25%;
+  width: 60%;
+  position: absolute;
+  border-radius: 50% 50%;
   left: 25%;
   padding-top: 10%;
 }

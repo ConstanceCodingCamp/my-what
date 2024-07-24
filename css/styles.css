@@ -39,7 +39,10 @@ h1, h2, h3, h5, h6 {
   /* containers */
 
   .container-fluid {
-    padding: 7% 15%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
   }
 
 /* sections */

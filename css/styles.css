@@ -88,7 +88,7 @@ margin: 5% 3% 5% 0;
 }
 
 #title .container-fluid {
-  padding: 3% 15% 7%;
+  padding: 25% 25% ;
 }
 
 /* Title Image */
@@ -96,8 +96,8 @@ margin: 5% 3% 5% 0;
 .title-image {
   top: 3%;
   width: 60%;
-/*   position: absolute; */
-  image-align: right;
+  position: absolute;
+/*   image-align: right; */
   border-radius: 50% 50%;
   left: 25%;
   padding-top: 10%;

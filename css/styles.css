@@ -16,7 +16,7 @@ h1, h2, h3, h5, h6 {
  }
 
  a{
-   color: black
+   color: pink;
  }
 
  a:hover{
@@ -95,20 +95,12 @@ margin: 5% 3% 5% 0;
 
 .title-image {
   top: 3%;
-  width: 50%;
-  position: absolute;
-  border-radius: 50% 50%;
-  image-align: right;
-  left: 25%;
-  padding: 20%;
-}
-/*   top: 3%;
   width: 60%;
-  position: absolute; 
+/*   position: absolute; */
   image-align: right;
   border-radius: 50% 50%;
   left: 25%;
-  padding-top: 10%; */
+  padding-top: 10%;
 }
 
 /* Features Section */

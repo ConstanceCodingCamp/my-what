@@ -16,7 +16,7 @@ h1, h2, h3, h5, h6 {
  }
 
  a{
-   color: black
+   color: pink;
  }
 
  a:hover{
@@ -45,7 +45,7 @@ h1, h2, h3, h5, h6 {
 /* sections */
 
 .colored-section {
-  background: linear-gradient(to left, red, black, white);
+  background: linear-gradient(to left, #00d4ff, #020024, #090979);
   color: #fff;
 }
 
@@ -82,7 +82,7 @@ margin: 5% 3% 5% 0;
 /* title section */
 
 #title {
-  background: linear-gradient(to right, red, black, white);
+  background: linear-gradient(to right, #00d4ff, #020024, #090979);
   color: #fff;
   text-align: left;
 }
@@ -96,8 +96,7 @@ margin: 5% 3% 5% 0;
 .title-image {
   top: 3%;
   width: 60%;
-  position: absolute; 
-  image-align: right;
+  position: absolute;
   border-radius: 50% 50%;
   left: 25%;
   padding-top: 10%;

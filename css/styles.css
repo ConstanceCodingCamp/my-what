@@ -177,6 +177,10 @@ margin: 5% 3% 5% 0;
 .social-icon {
   margin: 20px 10px;
 }
+.col-lg-6 {
+    position: relative; 
+    height: 400px; 
+}
 
 @media (max-width: 1028px) {
 
